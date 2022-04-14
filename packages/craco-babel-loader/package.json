@@ -29,10 +29,10 @@
   ],
   "dependencies": {},
   "peerDependencies": {
-    "@craco/craco": "^6.4.2"
+    "@craco/craco": "7.0.0-alpha.3"
   },
   "devDependencies": {
-    "@craco/craco": "^6.4.2",
+    "@craco/craco": "7.0.0-alpha.3",
     "microbundle": "^0.14.2"
   }
 }
